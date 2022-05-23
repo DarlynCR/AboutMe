@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AboutMe</string>
+    <string name="name">DarlynCR</string>
+    <string name="bio"><b>Hi my name is Darlyn</b>
+        \nApprentice focused on mobile development, for  <i>Android</i> with <i>Kotlin</i>, I have basic knowledge in <i>Java</i>, <i>MySQL</i>, <i>Oracle</i>, and <i>Kotlin</i>.
+        \nEager to continue learning and receive mentoring, in order to advance and grow professionally. Willing to learn new technologies and good software development practices.</string>
 </resources>
